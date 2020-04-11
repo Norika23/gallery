@@ -1,0 +1,5 @@
+.env
+admin/includes/vendor
+admin/images/
+/car_pictures/
+.DS_Store
